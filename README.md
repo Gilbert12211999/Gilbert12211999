@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bert21
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Javascript and others language's.
+- 🌱 I’m currently learning Javascript and others basic language's.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me, just email me here gcastanares57@gmail.com
 - 😄 Pronouns: Programming isn't about what you know; it's about what you can figure out.  by: Chris Pine
